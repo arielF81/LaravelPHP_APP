@@ -1,0 +1,52 @@
+html, body{
+    height: 100%;
+
+}
+
+
+
+h1 {
+    margin-left: 2vw;
+    font-family: 'Ultra', serif;
+    font-size: 1em;
+
+ }
+
+ul {
+    list-style: none;
+
+}
+#h2titulo {
+    font-size: 3em;
+}
+
+#gatito {
+    margin-left: 20vw;
+}
+
+nav {
+    background-color: #F9DBA5;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+    margin-left: 1vw;
+}
+
+footer {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#resumenList {
+    margin-left: 2.5vw;
+}
